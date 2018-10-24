@@ -10,3 +10,4 @@ Parts of the tutorial
 Screenshot
 ----------
 ![Authentication in React Applications](https://raw.github.com/vladimirponomarev/authentication-in-react-apps/master/screenshot.png)
+///////
